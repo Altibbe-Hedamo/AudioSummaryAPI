@@ -1,0 +1,9 @@
+flask
+flask-cors
+requests
+edge-tts
+deep-translator
+gunicorn
+python-dotenv
+google-generativeai
+asyncio
